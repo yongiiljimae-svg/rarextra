@@ -4,10 +4,10 @@ import shutil
 from pyrogram import Client, filters
 
 # اطلاعات ربات و اکانت خود را اینجا جایگذاری کنید
-API_ID = 1234567  # به صورت عدد
-API_HASH = "آدرس_هش_شما"
-BOT_TOKEN = "توکن_ربات"
-CHANNEL_ID = "@HealerSub"  # آیدی کانال شما
+API_ID = 31982008  # به صورت عدد
+API_HASH = "be22af0eaa0b58d6b30c35d0bb407555"
+BOT_TOKEN = "8874637518:AAHvrZMh3OYcY3UPb0ZE4gk6mhQqUSxljOg"
+CHANNEL_ID = "@rarextra"  # آیدی کانال شما
 DRIVE_PATH = "/content/drive/MyDrive/Audios" # مسیر ذخیره در گوگل درایو
 
 app = Client("my_bot", api_id=API_ID, api_hash=API_HASH, bot_token=BOT_TOKEN)
